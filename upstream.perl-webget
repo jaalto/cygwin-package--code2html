@@ -1,0 +1,2 @@
+tag1: code2html
+  http://packages.debian.org/sid/code2html pregexp:orig.tar.gz file:code2html_0.9.1.orig.tar.gz new: x:
