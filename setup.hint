@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Convert source code to syntax highlighted HTML"
 ldesc: "Program can convert a single ource code file to a single output file,
 it can patch HTML files including special command sequences to insert
